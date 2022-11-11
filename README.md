@@ -20,7 +20,7 @@
 </br>
 
 
-## Team Vocal_15
+## authors
 
 <div align="center">
 
@@ -40,8 +40,6 @@ Imaginez que vous êtes un musicien passioné, rêvant tous les soirs de partage
 C'est pourquoi nous avons pensé ✨ **Place to Play** ✨, une application géniale permettant aux artistes et établissements de se connecter simplement en optimisant leurs recherches face à leurs attentes.
 
 
-
-[How to acces](#How-to-acces)
 
 [Installation et lancement en Local](#Installation-et-lancement-en-Local)
 
@@ -66,12 +64,6 @@ C'est pourquoi nous avons pensé ✨ **Place to Play** ✨, une application gén
 
 </div>
 
-
-## How to acces
-
-↳ [PlacetoPlay](https://place-to-play.herokuapp.com/) 🎤 
-
-</br>
 
 ## Installation et lancement en Local
 
@@ -116,12 +108,6 @@ Il ne reste plus qu'à se rendre sur le site en local pour accèder aux fonction
 
 </br>
 
-## Trello 
-
-↳ [How we organised](https://trello.com/b/yxKhaD3p/placetoplay) 
-
-
-</br>
 
 ## Data Base
 
@@ -137,31 +123,11 @@ Il ne reste plus qu'à se rendre sur le site en local pour accèder aux fonction
 
 
 </br>
-</br>
-
-
-## Authors Details:
-
-👤 **the famous and infamous Vocal_15**
-
-- [@Chreees79](https://github.com/Chreees79)
-- [@GuillaumeBrthlt](https://github.com/GuillaumeBrthlt)
-- [@linahello](https://github.com/linahello)
-- [@LoiseauB](https://github.com/LoiseauB)
-- [@xko0](https://github.com/xko0) 
-</br>
 
 
 ## Show your support
-
-[Un Dev A La Mer](http://www.devalamer.fr/)
 
 Give us a ⭐ Star on GitHub — it helps!
 
 </br>
 
-### 😂 Here is a random joke that'll make you laugh!
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
