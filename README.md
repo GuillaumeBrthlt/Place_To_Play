@@ -117,3 +117,17 @@ Give us a ⭐ Star on GitHub — it helps!
 
 </br>
 
+## some previews
+
+### homepage
+
+<img src="public/homepage.png">
+
+### login page
+<img src="public/login.png">
+
+### messages box
+<img src="public/message_box.png">
+
+### dashboard
+<img src="public/dashboard.png">
